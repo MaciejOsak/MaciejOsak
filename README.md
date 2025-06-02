@@ -1,16 +1,27 @@
-## Hi there 👋
+# About me
 
-<!--
-**MaciejOsak/MaciejOsak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Maciej.
 
-Here are some ideas to get you started:
+## My work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm working on a Block Blast videogame clone for practice and to have the game on my own.
+
+## Skills I develop
+
+At this moment, I'm learning Android Studio, Kotlin, PHP and I'm always eager to learn new stuff.
+
+## Plans & Wishes
+
+In the nearest future, I'd like to collaborate on some bigger app/videogame projects and also become a freelancer.
+
+## Contact
+
+You can text me through my discord: Jaroo/jareckiij
+
+## Fun (?) fact
+
+NASA in collaboration with Lockheed Martin once sent a martian mission. 
+
+Unfortunately, the probe crashed instead of attaining a stable orbit. That means, it got much to close to the surface of Mars then it should. 
+
+As it turned out, it was due to Lockheed Martin using imperial system, while NASA used the metric one! And they didn't know they utilized different units in their calculations...
