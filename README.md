@@ -16,7 +16,7 @@ In the nearest future, I'd like to collaborate on some bigger app/videogame proj
 
 ## Contact
 
-You can text me through my discord: Jaroo/jareckiij
+You can text me through my Discord: Jaroo/jareckiij
 
 ## Fun (?) fact
 
