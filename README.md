@@ -22,6 +22,6 @@ You can text me through my Discord: Jaroo/jareckiij
 
 NASA in collaboration with Lockheed Martin once sent a martian mission. 
 
-Unfortunately, the probe crashed instead of attaining a stable orbit. That means, it got much to close to the surface of Mars then it should. 
+Unfortunately, the probe crashed instead of attaining a stable orbit. That means, it got much to close to the surface of Mars then it should've. 
 
 As it turned out, it was due to Lockheed Martin using imperial system, while NASA used the metric one! And they didn't know they utilized different units in their calculations...
